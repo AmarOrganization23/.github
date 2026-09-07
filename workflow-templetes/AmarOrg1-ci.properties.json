@@ -1,0 +1,13 @@
+{
+  "name": "Amar Organization Workflow",
+  "description": "Amar CI starter workflow.",
+  "iconName": "Amar.png",
+  "categories": [
+    "Go"
+  ],
+  "filePatterns": [
+    "package.json5",
+    "^Dockerfile",
+    ".*\\.md$"
+  ]
+}
